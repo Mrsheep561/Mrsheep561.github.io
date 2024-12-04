@@ -15,6 +15,7 @@ h3 {
 
 a {
     font-family: sans-serif;
+    color: white;
 }
 
 body {
@@ -62,7 +63,6 @@ background: linear-gradient(to right, #3381ff,
 .nav-main {
     width: fit-content;
     height: 100%;
-    color: #fff;
 }
 
 .nav-main ul {
