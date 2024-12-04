@@ -31,8 +31,7 @@ h2 {
     font-family: "Oswald", sans-serif;
 }
 
-.gradient h1 {
-font-family: "Fredoka", sans-serif;
+.gradient {
 background: linear-gradient(to right, #3381ff, 
                     #8400ff, #3381ff, #8400ff);
     -webkit-text-fill-color: transparent;
