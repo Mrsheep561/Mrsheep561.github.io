@@ -20,7 +20,6 @@ body {
 
 h1 {
   font-family: "Fredoka", sans-serif;
-  margin: 500px 0px 0px 0px;
 }
  
 h2 {
@@ -28,6 +27,7 @@ h2 {
 }
 
 .gradient {
+margin: 500px 0px 0px 0px;
 background: linear-gradient(to right, #ff0000, #ff6200, #f6ff00, #2bff00, #03fcec, #f803fc);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
