@@ -45,7 +45,7 @@ background: linear-gradient(to right, #3381ff,
         background-position: 0% 50%;
     }
     50% {
-        background-position: 100% 50%;
+        background-position: 100%  50%;
     }
     100% {
         background-position: 0% 50%;
@@ -58,3 +58,7 @@ background: linear-gradient(to right, #3381ff,
     background-color: #000;
   }
 } 
+
+.nav-main {
+    margin: 50px 0px 0px 0px;
+}
