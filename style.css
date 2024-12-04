@@ -62,7 +62,7 @@ background: linear-gradient(to right, #3381ff,
 .nav-main {
     width: fit-content;
     height: 100%;
-    background-color: white;
+    color: #fff;
 }
 
 .nav-main ul {
