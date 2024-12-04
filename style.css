@@ -60,5 +60,17 @@ background: linear-gradient(to right, #3381ff,
 } 
 
 .nav-main {
-    margin: 50px 0px 0px 0px;
+    width: fit-content;
+    height: 100%;
+    background-color: white;
+}
+
+.nav-main ul {
+    list-style: none;
+    margin-left: 500px;
+}
+
+.nav-main ul li {
+    display: inline;
+    float: left;
 }
